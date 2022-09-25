@@ -2,5 +2,5 @@
 
 pravirchugh's projects from the freeCodeCamp Responsive Web Design Certification.
 
-Projects:
+## Projects:
 - Survey Form Project
