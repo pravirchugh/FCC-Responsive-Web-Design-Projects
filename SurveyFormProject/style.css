@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, cyan, blue); /* consider using an SVG as an icon? */
+    background-image: linear-gradient(to right, cyan, blue); /* For the background */
 }
 
 .first-intro-label {
@@ -45,7 +45,7 @@ label {
     border-radius: 15px;
 }
 .background-info {
-    width: 550px; /* ????? */
+    width: 550px; 
     height: 20px;
     border-radius: 5px;
 }
@@ -65,5 +65,3 @@ label {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
-/* Next, we need to add more spacing between the headers and the previous elements. The form looks a bit too clumped together. Make sure to add this to GitHub as well! */
