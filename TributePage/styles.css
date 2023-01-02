@@ -1,0 +1,14 @@
+#name, #img-caption {
+    text-align: center;
+}
+#page-header {
+    background-color: lightgray;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
